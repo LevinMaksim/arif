@@ -8,5 +8,5 @@ print ("Z1: " , z1)
 #z2 = (-4 * math.sin((a -b)/ 2)) * math.cos(a + b)
 z4 = (a + b)
 z2 = (a - b) / 2
-z3 = (-4 * math.sin(z2)) * math.cos(z4)
+z3 = ((-4 * math.sin(z2))**2) * math.cos(z4)
 print ("Z2: " , z3)
